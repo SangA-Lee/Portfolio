@@ -1,7 +1,5 @@
 # Portfolio
 
----
-
 1. Photo
 
   - Analog Film
